@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monopoly", "Monopoly.csproj", "{02FA2355-618D-48C9-9D18-EE9E70A2A90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monopoly.Tests", "..\Monopoly.Tests\Monopoly.Tests.csproj", "{079425E8-0718-639F-CFFE-E13A2AE9F553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FA2355-618D-48C9-9D18-EE9E70A2A90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FA2355-618D-48C9-9D18-EE9E70A2A90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FA2355-618D-48C9-9D18-EE9E70A2A90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FA2355-618D-48C9-9D18-EE9E70A2A90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{079425E8-0718-639F-CFFE-E13A2AE9F553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079425E8-0718-639F-CFFE-E13A2AE9F553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079425E8-0718-639F-CFFE-E13A2AE9F553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079425E8-0718-639F-CFFE-E13A2AE9F553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EB40C23-FE82-4003-9E4C-FEAAED9A2FE0}
+	EndGlobalSection
+EndGlobal
